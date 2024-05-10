@@ -13,6 +13,7 @@
         &.p-highlight {
             .p-stepper-number {
                 background: $primaryColor;
+                border-color: $primaryColor;
                 color: $primaryTextColor;
             }
 
