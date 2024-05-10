@@ -1,0 +1,14 @@
+$primaryColor: #106389 !default;
+$primaryDarkColor: #0e5474 !default;
+$primaryDarkerColor: #0b4560 !default;
+$primaryTextColor: #fefefe !default;
+$secondaryColor: #fdc640;
+
+$highlightBg: rgba($secondaryColor, 0.2) !default;
+$highlightTextColor: $primaryDarkerColor !default;
+$highlightFocusBg: rgba($primaryColor, .24) !default;
+
+@import '../_variables';
+@import './_fonts';
+@import '../../theme-base/_components';
+@import '../extensions/_extensions';
